@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vamos calcular?</title>
+</head>
+<body>
+    <h1>Minha primeira calculadora</h1>
+
+    Digite primeiro numero<br />
+    <input id="text1" type="number" /><br />
+    Digite Segundo numero<br /> 
+    <input id="text2" type="number" /><br /><br />
+    <input type="button" value="somar" onclick="somar()">
+    <input type="button" value="subtracao" onclick="subtracao()">
+    <input type="button" value="multiplicacao" onclick="multiplicacao()">
+    <input type="button" value="divisao" onclick="divisao()">
+    <br /><br />
+
+    Resultado e <span></span>   
+       
+<script>
+      var text1 = document.querySelector('#text1') 
+      var text2 = document.querySelector('#text2')
+      let resultado = document.querySelector('span')
+       
+       function somar() {    
+           resultado.innerHTML = parseInt(text1.value) + parseInt(text2.value)
+       } 
+       
+       function subtracao() {    
+           resultado.innerHTML = parseInt(text1.value) - parseInt(text2.value)
+       
+       }
+       
+       function multiplicacao() {    
+           resultado.innerHTML = parseInt(text1.value) * parseInt(text2.value)
+       }
+       
+       function divisao() {    
+           resultado.innerHTML = parseInt(text1.value) / parseInt(text2.value)
+       }
+       
+    </script>
+
+</body>
+</html>
+       
