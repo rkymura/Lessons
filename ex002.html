@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Verificando sua idade</title>
-    <link rel="stylesheet" href="estilo.css">
+   
 </head>
 <body>
     <header>
@@ -13,17 +13,17 @@
     <section>
         <div>
             <p>Digite sua idade:
-               <input type="number" name="txtidade" id="txtidade" min="0" max="100">
-               <input type="button" value="calcular idade" onclick="calcular idade()">
+               <input type="number" name="txtidade" id="txtidade" >
+               <input type="button" value="calcularIdade" onclick="calcularIdade()">
+               <input type="button" value="queanonasceu" onclick="queanonasceu()">
             </p>
             
         </div>
         <div id="res">
             Preencha o campo acima e veja o resultado!
             
-            <p>Voce eh:
-                <input type="resultado" name="txtidade" id="txtidade">
-            </p>
+            <p>Voce é:</p>
+            <p id="resultado"/p>
         </div>  
     </section>
 
@@ -36,26 +36,35 @@
 
 <script>
 
-    var number = document.querySelector('#number') 
-    let resultado = document.querySelector('#number')
-     
-    if(number==0){
-        console.log('Invalido')
+    let number = document.getElementById("txtidade") 
+    var resultado =  document.getElementById("resultado")
 
-    }
-    else if(number > 1 && number<9) {
-        console.log("crianca")
-    }
-    else if(number >== 10 && number<17) {
-        console.log("adolescente")
-    }
-    else if(number >== 18 && number<60) {
-        console.log("adulto")
-    }
-    else if(number >== 60 && number<100) {
-        console.log("idoso")
+    function queanonasceu() {
+        document.getElementById("resultado").innerHTML = "funciona!"
     }
 
+    function calcularIdade() { 
+        
+    if(parseInt(number.value) <= 0){
+       document.getElementById("resultado").innerHTML = "Invalido"
+
+    }
+    else if(parseInt(number.value) >= 1 && (parseInt(number.value)) <= 9) {
+        document.getElementById("resultado").innerHTML = "crianca"
+    }
+    else if(parseInt(number.value) >= 10 && (parseInt(number.value)) <= 17) {
+        document.getElementById("resultado").innerHTML = "adolescente"
+    }
+    else if(parseInt(number.value) >= 18 && (parseInt(number.value)) <= 60) {
+        document.getElementById("resultado").innerHTML = "adulto"
+    }
+    else if(parseInt(number.value) >= 60 && (parseInt(number.value)) <= 130) {
+        document.getElementById("resultado").innerHTML = "idoso"
+    }
+    else if(parseInt(number.value) >= 130){
+        document.getElementById("resultado").innerHTML = "Anciao"
+    }
+    }
 </script>
 
 </body>
