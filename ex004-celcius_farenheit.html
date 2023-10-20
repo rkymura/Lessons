@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de temperatura </title>
+   
+</head>
+<body>
+    <header>
+        <h1>Conversor de temperatura  </h1>
+    </header>
+    <section>
+        <div>
+            <p>Digite um numero:
+               <input type="number" name="temperatura" id="nomedocampo" >
+               <input type="button" value="grau em Celcius " onclick="grauemCelcius()">
+               <input type="button" value="grau em Fahrenheit" onclick="grauemFahrenheit()">
+    
+            </p>
+            
+        </div>
+        <div id="res">
+            Preencha o campo acima e veja o resultado abaixo!
+            
+            <p> A temperatura em Celsius e: </p>
+            <p id="resultadograuemCelcius"/p>
+
+            <p> A temperatura em Farenheit e: </p>
+            <p id="resultadograuemFahrenheit"/p>
+            
+
+        </div>  
+    </section>
+
+    <footer>
+        <p>&copy; Meusprimeirospassosnaprogramacao</p>
+    </footer>
+
+<script>
+
+    var caixaquerecebenumero = document.getElementById("nomedocampo")
+
+    function grauemCelcius() {
+             
+        //document.getElementById("resultadograuemCelcius").innerHTML = "ok"
+        //alert("funcionou")
+
+        
+    var resultado = (parseInt(caixaquerecebenumero.value) - 32) * 5 / 9
+
+    document.getElementById("resultadograuemCelcius").innerHTML = resultado
+    
+}
+
+    function grauemFahrenheit() {
+        //document.getElementById("resultadograuemFahrenheit").innerHTML = "ok"
+        //alert("funcionou")
+
+
+    var resultado = (parseInt(caixaquerecebenumero.value) * 9 / 5) + 32
+
+    document.getElementById("resultadograuemFahrenheit").innerHTML = resultado
+
+}
+
+</script>
+
+</body>
+    
+</html>
+
+
+  
+     
