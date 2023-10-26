@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qual a temperatura hoje? </title>
+   
+</head>
+<body>
+    <header>
+        <h1>Qual a temperatura hoje? </h1>
+    </header>
+    <section>
+        <div>
+            <p>Digite temperatura:
+               <input type="number" name="nomedocampo" id="nomedocampo" >
+               <input type="button" value="checar" onclick="descobrirtemperatura()">
+
+            </p>
+            
+        </div>
+        <div id="res">
+            Preencha o campo acima e confira a temperatura abaixo!
+            
+            <p> Como esta o tempo hoje? </p>
+            <p id="descobrirtemperatura"/p>
+           
+
+        </div>  
+    </section>
+
+    <footer>
+        <p>&copy; Meusprimeirospassosnaprogramacao</p>
+    </footer>
+
+<script>
+
+    var number = document.getElementById("nomedocampo")
+
+    function descobrirtemperatura() {
+    
+    //document.getElementById("descobrirtemperatura").innerHTML = "ok"
+    //alert("funcionou")
+    
+    
+    if(parseInt(number.value) >= 0 && (parseInt(number.value)) <= 18){
+        document.getElementById("descobrirtemperatura").innerHTML = "Esta frio!"
+        
+    }
+    else if(parseInt(number.value) >= 23 && (parseInt(number.value)) <= 44){
+        document.getElementById("descobrirtemperatura").innerHTML = "Esta calor!"
+    } 
+        
+    else if(parseInt(number.value) <= 0 ){
+        document.getElementById("descobrirtemperatura").innerHTML = "Esta congelando!"
+    }
+
+    else if(parseInt(number.value) >= 45 ){
+        document.getElementById("descobrirtemperatura").innerHTML = "Esta pegando fogo!"
+    
+    }
+    }
+
+</script>
+
+</body>
+    
+</html>
+
+
+  
+     
