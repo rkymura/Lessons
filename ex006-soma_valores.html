@@ -24,7 +24,7 @@
             </p>    
             <br /><br />
               Digite Segundo numero<br /> 
-                <input id="caixaqueinseresegundoonumero" type="number" /><br />
+                <input id="caixaqueinseresegundonumero" type="number" /><br />
                 <input type="button" value="resultado" 
 
             <p>
@@ -36,15 +36,15 @@
     Resultado da operacao acima e: <span></span>   
        
 <script>
-      var caixainsereprimeironumero = document.getElementById('#caixaqueinsereprimeironumero') 
-      var caixainsereopmatmaticas = document.getElementById('#caixaqueinsereoperadormatematico')
-      var caixainsereterceironumero = document.getElementById('#caixaqueinseresegundonumero')
+      var caixaqueinsereprimeironumero = document.getElementById('#caixaqueinsereprimeironumero') 
+      var caixaqueinsereoperadormatematico = document.getElementById('#caixaqueinsereoperadormatematico')
+      var caixaqueinseresegundonumero = document.getElementById('#caixaqueinseresegundonumero')
       let resultado = document.getElementById('span')
        
     
        function somar() {    
         
-        resultado.innerHTML = parseInt(caixaqueinsereprimeironumero.value) + parseInt(caixaqueinseresegundoonumero.value)
+        resultado.innerHTML = parseInt(caixaqueinsereprimeironumero.value) + parseInt(caixaqueinseresegundonumero.value)
      //   document.getElementById("caixaqueinsereoperadormatematico").innerHTML = "ok"
      //   alert("funcionou")
        } 
