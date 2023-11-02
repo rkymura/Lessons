@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora digital</title>
+</head>
+<body>
+    <header>
+        <h1>Insira os numeros e descubra os valores</h1>
+    </header>
+    <section>
+        <div>
+            <p>Digite primeiro numero<br />
+                <input id="caixaqueinsereprimeironumero" type="number" /><br />
+
+            <p>Digite operacao matematica<br /> 
+                <input id="caixaqueinsereoperadormatematico" type="operadormatematico" /><br />
+                         
+                <input type="+" value="somar" 
+                <input type="-" value="subtracao" 
+                <input type="*" value="multiplicacao" 
+                <input type="/" value="divisao" 
+            </p>    
+            <br /><br />
+              Digite Segundo numero<br /> 
+                <input id="caixaqueinseresegundonumero" type="number" /><br />
+                <input type="button" value="resultado" 
+
+            <p>
+
+        </div>
+       
+    <br /><br />
+
+    Resultado da operacao acima e: <span></span>   
+       
+<script>
+      var caixaqueinsereprimeironumero = document.getElementById('#caixaqueinsereprimeironumero') 
+      var caixaqueinsereoperadormatematico = document.getElementById('#caixaqueinsereoperadormatematico')
+      var caixaqueinseresegundonumero = document.getElementById('#caixaqueinseresegundonumero')
+      let resultado = document.getElementById('span')
+       
+    
+       function somar() {    
+        
+        resultado.innerHTML = parseInt(caixaqueinsereprimeironumero.value) + parseInt(caixaqueinseresegundonumero.value)
+     //   document.getElementById("caixaqueinsereoperadormatematico").innerHTML = "ok"
+     //   alert("funcionou")
+       } 
+
+       
+       function subtracao() {    
+           resultado.innerHTML = parseInt(text1.value) - parseInt(text2.value)
+       
+       }
+       
+       function multiplicacao() {    
+           resultado.innerHTML = parseInt(text1.value) * parseInt(text2.value)
+       }
+       
+       function divisao() {    
+           resultado.innerHTML = parseInt(text1.value) / parseInt(text2.value)
+       }
+       //
+    </script>
+
+</body>
+</html>
+       
