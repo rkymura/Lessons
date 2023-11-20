@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Porcentagem em investimentos</title>
+</head>
+<body>
+    <header>
+        <h1>Descubra quanto eu lucrei</h1>
+    </header>
+    <section>
+        <div>
+            <input type="number" name="valorinvestido" id="valorinvestido">
+            <input type="number" name="lucrodovalorinvestido" id="lucrodovalorinvestido">
+            <input type="button" value="checarporcentagem" onclick="checarporcentagem()">
+
+        </p>
+ 
+
+    </div>
+    <div id="res">
+
+        <p> Meu lucro foi de: </p>
+        <p id="resultadochecarporcentagem"/p>
+
+            
+        </div>
+
+<script>
+        
+    var caixaquerecebeprimeironumero = document.getElementById("valorinvestido")
+    var caixaquerecebesegundonumero = document.getElementById("lucrodovalorinvestido")
+    
+
+    function checarporcentagem() {
+        //document.getElementById("resultadochecarporcentagem").innerHTML = "ok"
+        //alert("funcionou")
+
+    var resultado = (parseInt(caixaquerecebesegundonumero.value)) / (parseInt(caixaquerecebeprimeironumero.value)) * 100 + "%"
+        //valor do ganho / principal * 100
+        //ex 100/1000= 0.2 *100= 20%
+
+    document.getElementById("resultadochecarporcentagem").innerHTML = resultado
+
+    }
+
+</script>
+
+</body>
+
+</html>
