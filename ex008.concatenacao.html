@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Concatenacao</title>
+</head>
+<body>
+    <header>                                              
+        <h1>Vamos montar palavras?</h1>
+    </header>
+    <section>
+        <div>
+            <input type="text" id="caixaquerecebeprimeirotexto">
+            <input type="text" id="caixaquerecebesegundotexto">
+            <input type="button" value="verpalavrafinal" onclick="verpalavrafinal()">
+
+
+       
+            <p> A palavra completa é: </p>
+            <p id="resultadoverpalavrafinal"/p>
+
+
+        </div>
+   
+    <script>
+
+
+      var caixaquerecebeprimeirotexto = document.getElementById("caixaquerecebeprimeirotexto")
+      var caixaquerecebesegundotexto = document.getElementById("caixaquerecebesegundotexto")
+     
+   
+      function verpalavrafinal() {
+            //document.getElementById("resultadoverpalavrafinal").innerHTML = "ok"
+            //alert("funcionou")
+     
+     var resultado = caixaquerecebeprimeirotexto.value + caixaquerecebesegundotexto.value
+     document.getElementById("resultadoverpalavrafinal").innerHTML = resultado
+
+
+}
+
+
+</script>
+
+
+</section>
+
+
+</body>
+</html>
