@@ -1,0 +1,16 @@
+C:\curso com andre\Aula01_C\Aula01_C\bin\Debug\net8.0-windows\Aula01_C.exe
+C:\curso com andre\Aula01_C\Aula01_C\bin\Debug\net8.0-windows\Aula01_C.deps.json
+C:\curso com andre\Aula01_C\Aula01_C\bin\Debug\net8.0-windows\Aula01_C.runtimeconfig.json
+C:\curso com andre\Aula01_C\Aula01_C\bin\Debug\net8.0-windows\Aula01_C.dll
+C:\curso com andre\Aula01_C\Aula01_C\bin\Debug\net8.0-windows\Aula01_C.pdb
+C:\curso com andre\Aula01_C\Aula01_C\obj\Debug\net8.0-windows\Aula01_C.Form1.resources
+C:\curso com andre\Aula01_C\Aula01_C\obj\Debug\net8.0-windows\Aula01_C.csproj.GenerateResource.cache
+C:\curso com andre\Aula01_C\Aula01_C\obj\Debug\net8.0-windows\Aula01_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Aula01_C\Aula01_C\obj\Debug\net8.0-windows\Aula01_C.AssemblyInfoInputs.cache
+C:\curso com andre\Aula01_C\Aula01_C\obj\Debug\net8.0-windows\Aula01_C.AssemblyInfo.cs
+C:\curso com andre\Aula01_C\Aula01_C\obj\Debug\net8.0-windows\Aula01_C.csproj.CoreCompileInputs.cache
+C:\curso com andre\Aula01_C\Aula01_C\obj\Debug\net8.0-windows\Aula01_C.dll
+C:\curso com andre\Aula01_C\Aula01_C\obj\Debug\net8.0-windows\refint\Aula01_C.dll
+C:\curso com andre\Aula01_C\Aula01_C\obj\Debug\net8.0-windows\Aula01_C.pdb
+C:\curso com andre\Aula01_C\Aula01_C\obj\Debug\net8.0-windows\Aula01_C.genruntimeconfig.cache
+C:\curso com andre\Aula01_C\Aula01_C\obj\Debug\net8.0-windows\ref\Aula01_C.dll
