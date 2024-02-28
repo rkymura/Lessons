@@ -1,0 +1,16 @@
+C:\curso com andre\Aula02\bin\Debug\net8.0-windows\Aula02.exe
+C:\curso com andre\Aula02\bin\Debug\net8.0-windows\Aula02.deps.json
+C:\curso com andre\Aula02\bin\Debug\net8.0-windows\Aula02.runtimeconfig.json
+C:\curso com andre\Aula02\bin\Debug\net8.0-windows\Aula02.dll
+C:\curso com andre\Aula02\bin\Debug\net8.0-windows\Aula02.pdb
+C:\curso com andre\Aula02\obj\Debug\net8.0-windows\Aula02.Form1.resources
+C:\curso com andre\Aula02\obj\Debug\net8.0-windows\Aula02.csproj.GenerateResource.cache
+C:\curso com andre\Aula02\obj\Debug\net8.0-windows\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Aula02\obj\Debug\net8.0-windows\Aula02.AssemblyInfoInputs.cache
+C:\curso com andre\Aula02\obj\Debug\net8.0-windows\Aula02.AssemblyInfo.cs
+C:\curso com andre\Aula02\obj\Debug\net8.0-windows\Aula02.csproj.CoreCompileInputs.cache
+C:\curso com andre\Aula02\obj\Debug\net8.0-windows\Aula02.dll
+C:\curso com andre\Aula02\obj\Debug\net8.0-windows\refint\Aula02.dll
+C:\curso com andre\Aula02\obj\Debug\net8.0-windows\Aula02.pdb
+C:\curso com andre\Aula02\obj\Debug\net8.0-windows\Aula02.genruntimeconfig.cache
+C:\curso com andre\Aula02\obj\Debug\net8.0-windows\ref\Aula02.dll
