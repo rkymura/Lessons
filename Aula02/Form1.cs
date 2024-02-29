@@ -65,6 +65,10 @@ namespace Aula02
             {
                 MessageBox.Show("12");
             }
+            else
+            {
+                MessageBox.Show("Invalido");
+            }
             
             
                 var numero = int.Parse(textBox1.Text);
