@@ -1,0 +1,16 @@
+C:\curso com andre\Aula04qtsgraus\obj\Debug\net8.0-windows\Aula04qtsgraus.Form1.resources
+C:\curso com andre\Aula04qtsgraus\obj\Debug\net8.0-windows\Aula04qtsgraus.csproj.GenerateResource.cache
+C:\curso com andre\Aula04qtsgraus\obj\Debug\net8.0-windows\Aula04qtsgraus.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Aula04qtsgraus\obj\Debug\net8.0-windows\Aula04qtsgraus.AssemblyInfoInputs.cache
+C:\curso com andre\Aula04qtsgraus\obj\Debug\net8.0-windows\Aula04qtsgraus.AssemblyInfo.cs
+C:\curso com andre\Aula04qtsgraus\obj\Debug\net8.0-windows\Aula04qtsgraus.csproj.CoreCompileInputs.cache
+C:\curso com andre\Aula04qtsgraus\bin\Debug\net8.0-windows\Aula04qtsgraus.exe
+C:\curso com andre\Aula04qtsgraus\bin\Debug\net8.0-windows\Aula04qtsgraus.deps.json
+C:\curso com andre\Aula04qtsgraus\bin\Debug\net8.0-windows\Aula04qtsgraus.runtimeconfig.json
+C:\curso com andre\Aula04qtsgraus\bin\Debug\net8.0-windows\Aula04qtsgraus.dll
+C:\curso com andre\Aula04qtsgraus\bin\Debug\net8.0-windows\Aula04qtsgraus.pdb
+C:\curso com andre\Aula04qtsgraus\obj\Debug\net8.0-windows\Aula04qtsgraus.dll
+C:\curso com andre\Aula04qtsgraus\obj\Debug\net8.0-windows\refint\Aula04qtsgraus.dll
+C:\curso com andre\Aula04qtsgraus\obj\Debug\net8.0-windows\Aula04qtsgraus.pdb
+C:\curso com andre\Aula04qtsgraus\obj\Debug\net8.0-windows\Aula04qtsgraus.genruntimeconfig.cache
+C:\curso com andre\Aula04qtsgraus\obj\Debug\net8.0-windows\ref\Aula04qtsgraus.dll
