@@ -1,0 +1,16 @@
+C:\curso com andre\Aula05somavalores\bin\Debug\net8.0-windows\Aula05somavalores.exe
+C:\curso com andre\Aula05somavalores\bin\Debug\net8.0-windows\Aula05somavalores.deps.json
+C:\curso com andre\Aula05somavalores\bin\Debug\net8.0-windows\Aula05somavalores.runtimeconfig.json
+C:\curso com andre\Aula05somavalores\bin\Debug\net8.0-windows\Aula05somavalores.dll
+C:\curso com andre\Aula05somavalores\bin\Debug\net8.0-windows\Aula05somavalores.pdb
+C:\curso com andre\Aula05somavalores\obj\Debug\net8.0-windows\Aula05somavalores.Form1.resources
+C:\curso com andre\Aula05somavalores\obj\Debug\net8.0-windows\Aula05somavalores.csproj.GenerateResource.cache
+C:\curso com andre\Aula05somavalores\obj\Debug\net8.0-windows\Aula05somavalores.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Aula05somavalores\obj\Debug\net8.0-windows\Aula05somavalores.AssemblyInfoInputs.cache
+C:\curso com andre\Aula05somavalores\obj\Debug\net8.0-windows\Aula05somavalores.AssemblyInfo.cs
+C:\curso com andre\Aula05somavalores\obj\Debug\net8.0-windows\Aula05somavalores.csproj.CoreCompileInputs.cache
+C:\curso com andre\Aula05somavalores\obj\Debug\net8.0-windows\Aula05somavalores.dll
+C:\curso com andre\Aula05somavalores\obj\Debug\net8.0-windows\refint\Aula05somavalores.dll
+C:\curso com andre\Aula05somavalores\obj\Debug\net8.0-windows\Aula05somavalores.pdb
+C:\curso com andre\Aula05somavalores\obj\Debug\net8.0-windows\Aula05somavalores.genruntimeconfig.cache
+C:\curso com andre\Aula05somavalores\obj\Debug\net8.0-windows\ref\Aula05somavalores.dll
