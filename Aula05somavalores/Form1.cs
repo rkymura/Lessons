@@ -30,22 +30,22 @@ namespace Aula05somavalores
             if (operador == "+")
             {
                 var resultado = int.Parse(textBox1.Text) + int.Parse(textBox3.Text);
-                MessageBox.Show(resultado + "resultado");
+                MessageBox.Show(resultado + "");
             }
             else if (operador == "-")
             {
                 var resultado2 = int.Parse(textBox1.Text) - int.Parse(textBox3.Text);
-                MessageBox.Show(resultado2 + "resultado");
+                MessageBox.Show(resultado2 + "");
             }
             else if (operador == "*")
             {
                 var resultado3 = int.Parse(textBox1.Text) * int.Parse(textBox3.Text);
-                MessageBox.Show(resultado3 + "resultado");
+                MessageBox.Show(resultado3 + "");
             }
             else if (operador == "/")
             {
                 var resultado4 = int.Parse(textBox1.Text) / int.Parse(textBox3.Text);
-                MessageBox.Show(resultado4 + "resultado");
+                MessageBox.Show(resultado4 + "");
             }
         }   
     }
