@@ -1,0 +1,16 @@
+C:\curso com andre\Aula07Concatenacao\bin\Debug\net8.0-windows\Aula07Concatenacao.exe
+C:\curso com andre\Aula07Concatenacao\bin\Debug\net8.0-windows\Aula07Concatenacao.deps.json
+C:\curso com andre\Aula07Concatenacao\bin\Debug\net8.0-windows\Aula07Concatenacao.runtimeconfig.json
+C:\curso com andre\Aula07Concatenacao\bin\Debug\net8.0-windows\Aula07Concatenacao.dll
+C:\curso com andre\Aula07Concatenacao\bin\Debug\net8.0-windows\Aula07Concatenacao.pdb
+C:\curso com andre\Aula07Concatenacao\obj\Debug\net8.0-windows\Aula07Concatenacao.Form1.resources
+C:\curso com andre\Aula07Concatenacao\obj\Debug\net8.0-windows\Aula07Concatenacao.csproj.GenerateResource.cache
+C:\curso com andre\Aula07Concatenacao\obj\Debug\net8.0-windows\Aula07Concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Aula07Concatenacao\obj\Debug\net8.0-windows\Aula07Concatenacao.AssemblyInfoInputs.cache
+C:\curso com andre\Aula07Concatenacao\obj\Debug\net8.0-windows\Aula07Concatenacao.AssemblyInfo.cs
+C:\curso com andre\Aula07Concatenacao\obj\Debug\net8.0-windows\Aula07Concatenacao.csproj.CoreCompileInputs.cache
+C:\curso com andre\Aula07Concatenacao\obj\Debug\net8.0-windows\Aula07Concatenacao.dll
+C:\curso com andre\Aula07Concatenacao\obj\Debug\net8.0-windows\refint\Aula07Concatenacao.dll
+C:\curso com andre\Aula07Concatenacao\obj\Debug\net8.0-windows\Aula07Concatenacao.pdb
+C:\curso com andre\Aula07Concatenacao\obj\Debug\net8.0-windows\Aula07Concatenacao.genruntimeconfig.cache
+C:\curso com andre\Aula07Concatenacao\obj\Debug\net8.0-windows\ref\Aula07Concatenacao.dll
