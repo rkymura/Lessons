@@ -1,0 +1,16 @@
+C:\curso com andre\Aula29Mar\bin\Debug\net8.0-windows\Aula29Mar.exe
+C:\curso com andre\Aula29Mar\bin\Debug\net8.0-windows\Aula29Mar.deps.json
+C:\curso com andre\Aula29Mar\bin\Debug\net8.0-windows\Aula29Mar.runtimeconfig.json
+C:\curso com andre\Aula29Mar\bin\Debug\net8.0-windows\Aula29Mar.dll
+C:\curso com andre\Aula29Mar\bin\Debug\net8.0-windows\Aula29Mar.pdb
+C:\curso com andre\Aula29Mar\obj\Debug\net8.0-windows\Aula29Mar.Form1.resources
+C:\curso com andre\Aula29Mar\obj\Debug\net8.0-windows\Aula29Mar.csproj.GenerateResource.cache
+C:\curso com andre\Aula29Mar\obj\Debug\net8.0-windows\Aula29Mar.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Aula29Mar\obj\Debug\net8.0-windows\Aula29Mar.AssemblyInfoInputs.cache
+C:\curso com andre\Aula29Mar\obj\Debug\net8.0-windows\Aula29Mar.AssemblyInfo.cs
+C:\curso com andre\Aula29Mar\obj\Debug\net8.0-windows\Aula29Mar.csproj.CoreCompileInputs.cache
+C:\curso com andre\Aula29Mar\obj\Debug\net8.0-windows\Aula29Mar.dll
+C:\curso com andre\Aula29Mar\obj\Debug\net8.0-windows\refint\Aula29Mar.dll
+C:\curso com andre\Aula29Mar\obj\Debug\net8.0-windows\Aula29Mar.pdb
+C:\curso com andre\Aula29Mar\obj\Debug\net8.0-windows\Aula29Mar.genruntimeconfig.cache
+C:\curso com andre\Aula29Mar\obj\Debug\net8.0-windows\ref\Aula29Mar.dll
