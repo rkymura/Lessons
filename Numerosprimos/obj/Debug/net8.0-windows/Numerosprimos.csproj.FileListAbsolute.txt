@@ -1,0 +1,16 @@
+C:\curso com andre\Numerosprimos\obj\Debug\net8.0-windows\Numerosprimos.Form1.resources
+C:\curso com andre\Numerosprimos\obj\Debug\net8.0-windows\Numerosprimos.csproj.GenerateResource.cache
+C:\curso com andre\Numerosprimos\obj\Debug\net8.0-windows\Numerosprimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Numerosprimos\obj\Debug\net8.0-windows\Numerosprimos.AssemblyInfoInputs.cache
+C:\curso com andre\Numerosprimos\obj\Debug\net8.0-windows\Numerosprimos.AssemblyInfo.cs
+C:\curso com andre\Numerosprimos\obj\Debug\net8.0-windows\Numerosprimos.csproj.CoreCompileInputs.cache
+C:\curso com andre\Numerosprimos\bin\Debug\net8.0-windows\Numerosprimos.exe
+C:\curso com andre\Numerosprimos\bin\Debug\net8.0-windows\Numerosprimos.deps.json
+C:\curso com andre\Numerosprimos\bin\Debug\net8.0-windows\Numerosprimos.runtimeconfig.json
+C:\curso com andre\Numerosprimos\bin\Debug\net8.0-windows\Numerosprimos.dll
+C:\curso com andre\Numerosprimos\bin\Debug\net8.0-windows\Numerosprimos.pdb
+C:\curso com andre\Numerosprimos\obj\Debug\net8.0-windows\Numerosprimos.dll
+C:\curso com andre\Numerosprimos\obj\Debug\net8.0-windows\refint\Numerosprimos.dll
+C:\curso com andre\Numerosprimos\obj\Debug\net8.0-windows\Numerosprimos.pdb
+C:\curso com andre\Numerosprimos\obj\Debug\net8.0-windows\Numerosprimos.genruntimeconfig.cache
+C:\curso com andre\Numerosprimos\obj\Debug\net8.0-windows\ref\Numerosprimos.dll
