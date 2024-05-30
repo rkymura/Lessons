@@ -1,0 +1,16 @@
+C:\curso com andre\Fatorial\bin\Debug\net8.0-windows\Fatorial.exe
+C:\curso com andre\Fatorial\bin\Debug\net8.0-windows\Fatorial.deps.json
+C:\curso com andre\Fatorial\bin\Debug\net8.0-windows\Fatorial.runtimeconfig.json
+C:\curso com andre\Fatorial\bin\Debug\net8.0-windows\Fatorial.dll
+C:\curso com andre\Fatorial\bin\Debug\net8.0-windows\Fatorial.pdb
+C:\curso com andre\Fatorial\obj\Debug\net8.0-windows\Fatorial.Form1.resources
+C:\curso com andre\Fatorial\obj\Debug\net8.0-windows\Fatorial.csproj.GenerateResource.cache
+C:\curso com andre\Fatorial\obj\Debug\net8.0-windows\Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Fatorial\obj\Debug\net8.0-windows\Fatorial.AssemblyInfoInputs.cache
+C:\curso com andre\Fatorial\obj\Debug\net8.0-windows\Fatorial.AssemblyInfo.cs
+C:\curso com andre\Fatorial\obj\Debug\net8.0-windows\Fatorial.csproj.CoreCompileInputs.cache
+C:\curso com andre\Fatorial\obj\Debug\net8.0-windows\Fatorial.dll
+C:\curso com andre\Fatorial\obj\Debug\net8.0-windows\refint\Fatorial.dll
+C:\curso com andre\Fatorial\obj\Debug\net8.0-windows\Fatorial.pdb
+C:\curso com andre\Fatorial\obj\Debug\net8.0-windows\Fatorial.genruntimeconfig.cache
+C:\curso com andre\Fatorial\obj\Debug\net8.0-windows\ref\Fatorial.dll
