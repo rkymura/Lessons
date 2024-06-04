@@ -1,0 +1,16 @@
+C:\curso com andre\Inverterpalavra\bin\Debug\net8.0-windows\Inverterpalavra.exe
+C:\curso com andre\Inverterpalavra\bin\Debug\net8.0-windows\Inverterpalavra.deps.json
+C:\curso com andre\Inverterpalavra\bin\Debug\net8.0-windows\Inverterpalavra.runtimeconfig.json
+C:\curso com andre\Inverterpalavra\bin\Debug\net8.0-windows\Inverterpalavra.dll
+C:\curso com andre\Inverterpalavra\bin\Debug\net8.0-windows\Inverterpalavra.pdb
+C:\curso com andre\Inverterpalavra\obj\Debug\net8.0-windows\Inverterpalavra.Form1.resources
+C:\curso com andre\Inverterpalavra\obj\Debug\net8.0-windows\Inverterpalavra.csproj.GenerateResource.cache
+C:\curso com andre\Inverterpalavra\obj\Debug\net8.0-windows\Inverterpalavra.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Inverterpalavra\obj\Debug\net8.0-windows\Inverterpalavra.AssemblyInfoInputs.cache
+C:\curso com andre\Inverterpalavra\obj\Debug\net8.0-windows\Inverterpalavra.AssemblyInfo.cs
+C:\curso com andre\Inverterpalavra\obj\Debug\net8.0-windows\Inverterpalavra.csproj.CoreCompileInputs.cache
+C:\curso com andre\Inverterpalavra\obj\Debug\net8.0-windows\Inverterpalavra.dll
+C:\curso com andre\Inverterpalavra\obj\Debug\net8.0-windows\refint\Inverterpalavra.dll
+C:\curso com andre\Inverterpalavra\obj\Debug\net8.0-windows\Inverterpalavra.pdb
+C:\curso com andre\Inverterpalavra\obj\Debug\net8.0-windows\Inverterpalavra.genruntimeconfig.cache
+C:\curso com andre\Inverterpalavra\obj\Debug\net8.0-windows\ref\Inverterpalavra.dll
