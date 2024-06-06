@@ -1,0 +1,16 @@
+C:\curso com andre\Consultanomenalista\bin\Debug\net8.0-windows\Consultanomenalista.exe
+C:\curso com andre\Consultanomenalista\bin\Debug\net8.0-windows\Consultanomenalista.deps.json
+C:\curso com andre\Consultanomenalista\bin\Debug\net8.0-windows\Consultanomenalista.runtimeconfig.json
+C:\curso com andre\Consultanomenalista\bin\Debug\net8.0-windows\Consultanomenalista.dll
+C:\curso com andre\Consultanomenalista\bin\Debug\net8.0-windows\Consultanomenalista.pdb
+C:\curso com andre\Consultanomenalista\obj\Debug\net8.0-windows\Consultanomenalista.Form1.resources
+C:\curso com andre\Consultanomenalista\obj\Debug\net8.0-windows\Consultanomenalista.csproj.GenerateResource.cache
+C:\curso com andre\Consultanomenalista\obj\Debug\net8.0-windows\Consultanomenalista.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Consultanomenalista\obj\Debug\net8.0-windows\Consultanomenalista.AssemblyInfoInputs.cache
+C:\curso com andre\Consultanomenalista\obj\Debug\net8.0-windows\Consultanomenalista.AssemblyInfo.cs
+C:\curso com andre\Consultanomenalista\obj\Debug\net8.0-windows\Consultanomenalista.csproj.CoreCompileInputs.cache
+C:\curso com andre\Consultanomenalista\obj\Debug\net8.0-windows\Consultanomenalista.dll
+C:\curso com andre\Consultanomenalista\obj\Debug\net8.0-windows\refint\Consultanomenalista.dll
+C:\curso com andre\Consultanomenalista\obj\Debug\net8.0-windows\Consultanomenalista.pdb
+C:\curso com andre\Consultanomenalista\obj\Debug\net8.0-windows\Consultanomenalista.genruntimeconfig.cache
+C:\curso com andre\Consultanomenalista\obj\Debug\net8.0-windows\ref\Consultanomenalista.dll
