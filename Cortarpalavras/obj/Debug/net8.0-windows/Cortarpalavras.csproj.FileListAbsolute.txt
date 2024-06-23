@@ -1,0 +1,16 @@
+C:\curso com andre\Cortarpalavras\bin\Debug\net8.0-windows\Cortarpalavras.exe
+C:\curso com andre\Cortarpalavras\bin\Debug\net8.0-windows\Cortarpalavras.deps.json
+C:\curso com andre\Cortarpalavras\bin\Debug\net8.0-windows\Cortarpalavras.runtimeconfig.json
+C:\curso com andre\Cortarpalavras\bin\Debug\net8.0-windows\Cortarpalavras.dll
+C:\curso com andre\Cortarpalavras\bin\Debug\net8.0-windows\Cortarpalavras.pdb
+C:\curso com andre\Cortarpalavras\obj\Debug\net8.0-windows\Cortarpalavras.Form1.resources
+C:\curso com andre\Cortarpalavras\obj\Debug\net8.0-windows\Cortarpalavras.csproj.GenerateResource.cache
+C:\curso com andre\Cortarpalavras\obj\Debug\net8.0-windows\Cortarpalavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Cortarpalavras\obj\Debug\net8.0-windows\Cortarpalavras.AssemblyInfoInputs.cache
+C:\curso com andre\Cortarpalavras\obj\Debug\net8.0-windows\Cortarpalavras.AssemblyInfo.cs
+C:\curso com andre\Cortarpalavras\obj\Debug\net8.0-windows\Cortarpalavras.csproj.CoreCompileInputs.cache
+C:\curso com andre\Cortarpalavras\obj\Debug\net8.0-windows\Cortarpalavras.dll
+C:\curso com andre\Cortarpalavras\obj\Debug\net8.0-windows\refint\Cortarpalavras.dll
+C:\curso com andre\Cortarpalavras\obj\Debug\net8.0-windows\Cortarpalavras.pdb
+C:\curso com andre\Cortarpalavras\obj\Debug\net8.0-windows\Cortarpalavras.genruntimeconfig.cache
+C:\curso com andre\Cortarpalavras\obj\Debug\net8.0-windows\ref\Cortarpalavras.dll
