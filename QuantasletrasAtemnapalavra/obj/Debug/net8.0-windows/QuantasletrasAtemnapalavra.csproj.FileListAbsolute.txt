@@ -1,0 +1,16 @@
+C:\curso com andre\QuantasletrasAtemnapalavra\bin\Debug\net8.0-windows\QuantasletrasAtemnapalavra.exe
+C:\curso com andre\QuantasletrasAtemnapalavra\bin\Debug\net8.0-windows\QuantasletrasAtemnapalavra.deps.json
+C:\curso com andre\QuantasletrasAtemnapalavra\bin\Debug\net8.0-windows\QuantasletrasAtemnapalavra.runtimeconfig.json
+C:\curso com andre\QuantasletrasAtemnapalavra\bin\Debug\net8.0-windows\QuantasletrasAtemnapalavra.dll
+C:\curso com andre\QuantasletrasAtemnapalavra\bin\Debug\net8.0-windows\QuantasletrasAtemnapalavra.pdb
+C:\curso com andre\QuantasletrasAtemnapalavra\obj\Debug\net8.0-windows\QuantasletrasAtemnapalavra.Form1.resources
+C:\curso com andre\QuantasletrasAtemnapalavra\obj\Debug\net8.0-windows\QuantasletrasAtemnapalavra.csproj.GenerateResource.cache
+C:\curso com andre\QuantasletrasAtemnapalavra\obj\Debug\net8.0-windows\QuantasletrasAtemnapalavra.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\QuantasletrasAtemnapalavra\obj\Debug\net8.0-windows\QuantasletrasAtemnapalavra.AssemblyInfoInputs.cache
+C:\curso com andre\QuantasletrasAtemnapalavra\obj\Debug\net8.0-windows\QuantasletrasAtemnapalavra.AssemblyInfo.cs
+C:\curso com andre\QuantasletrasAtemnapalavra\obj\Debug\net8.0-windows\QuantasletrasAtemnapalavra.csproj.CoreCompileInputs.cache
+C:\curso com andre\QuantasletrasAtemnapalavra\obj\Debug\net8.0-windows\QuantasletrasAtemnapalavra.dll
+C:\curso com andre\QuantasletrasAtemnapalavra\obj\Debug\net8.0-windows\refint\QuantasletrasAtemnapalavra.dll
+C:\curso com andre\QuantasletrasAtemnapalavra\obj\Debug\net8.0-windows\QuantasletrasAtemnapalavra.pdb
+C:\curso com andre\QuantasletrasAtemnapalavra\obj\Debug\net8.0-windows\QuantasletrasAtemnapalavra.genruntimeconfig.cache
+C:\curso com andre\QuantasletrasAtemnapalavra\obj\Debug\net8.0-windows\ref\QuantasletrasAtemnapalavra.dll
