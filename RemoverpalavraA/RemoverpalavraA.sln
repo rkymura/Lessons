@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoverpalavraA", "RemoverpalavraA.csproj", "{BA3E89B9-66FC-4981-B57D-0855BC813962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3E89B9-66FC-4981-B57D-0855BC813962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3E89B9-66FC-4981-B57D-0855BC813962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3E89B9-66FC-4981-B57D-0855BC813962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3E89B9-66FC-4981-B57D-0855BC813962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E00B1CCD-864E-415C-A8E5-08DE332F2AC2}
+	EndGlobalSection
+EndGlobal

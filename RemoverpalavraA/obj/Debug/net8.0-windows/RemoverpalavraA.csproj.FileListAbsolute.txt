@@ -1,0 +1,16 @@
+C:\curso com andre\RemoverpalavraA\obj\Debug\net8.0-windows\RemoverpalavraA.Form1.resources
+C:\curso com andre\RemoverpalavraA\obj\Debug\net8.0-windows\RemoverpalavraA.csproj.GenerateResource.cache
+C:\curso com andre\RemoverpalavraA\obj\Debug\net8.0-windows\RemoverpalavraA.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\RemoverpalavraA\obj\Debug\net8.0-windows\RemoverpalavraA.AssemblyInfoInputs.cache
+C:\curso com andre\RemoverpalavraA\obj\Debug\net8.0-windows\RemoverpalavraA.AssemblyInfo.cs
+C:\curso com andre\RemoverpalavraA\obj\Debug\net8.0-windows\RemoverpalavraA.csproj.CoreCompileInputs.cache
+C:\curso com andre\RemoverpalavraA\bin\Debug\net8.0-windows\RemoverpalavraA.exe
+C:\curso com andre\RemoverpalavraA\bin\Debug\net8.0-windows\RemoverpalavraA.deps.json
+C:\curso com andre\RemoverpalavraA\bin\Debug\net8.0-windows\RemoverpalavraA.runtimeconfig.json
+C:\curso com andre\RemoverpalavraA\bin\Debug\net8.0-windows\RemoverpalavraA.dll
+C:\curso com andre\RemoverpalavraA\bin\Debug\net8.0-windows\RemoverpalavraA.pdb
+C:\curso com andre\RemoverpalavraA\obj\Debug\net8.0-windows\RemoverpalavraA.dll
+C:\curso com andre\RemoverpalavraA\obj\Debug\net8.0-windows\refint\RemoverpalavraA.dll
+C:\curso com andre\RemoverpalavraA\obj\Debug\net8.0-windows\RemoverpalavraA.pdb
+C:\curso com andre\RemoverpalavraA\obj\Debug\net8.0-windows\RemoverpalavraA.genruntimeconfig.cache
+C:\curso com andre\RemoverpalavraA\obj\Debug\net8.0-windows\ref\RemoverpalavraA.dll
