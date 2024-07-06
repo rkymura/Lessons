@@ -1,0 +1,16 @@
+C:\curso com andre\Aula 01 - idade repeticao\bin\Debug\net8.0-windows\Aula 01 - idade repeticao.exe
+C:\curso com andre\Aula 01 - idade repeticao\bin\Debug\net8.0-windows\Aula 01 - idade repeticao.deps.json
+C:\curso com andre\Aula 01 - idade repeticao\bin\Debug\net8.0-windows\Aula 01 - idade repeticao.runtimeconfig.json
+C:\curso com andre\Aula 01 - idade repeticao\bin\Debug\net8.0-windows\Aula 01 - idade repeticao.dll
+C:\curso com andre\Aula 01 - idade repeticao\bin\Debug\net8.0-windows\Aula 01 - idade repeticao.pdb
+C:\curso com andre\Aula 01 - idade repeticao\obj\Debug\net8.0-windows\Aula_01___idade_repeticao.Form1.resources
+C:\curso com andre\Aula 01 - idade repeticao\obj\Debug\net8.0-windows\Aula 01 - idade repeticao.csproj.GenerateResource.cache
+C:\curso com andre\Aula 01 - idade repeticao\obj\Debug\net8.0-windows\Aula 01 - idade repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Aula 01 - idade repeticao\obj\Debug\net8.0-windows\Aula 01 - idade repeticao.AssemblyInfoInputs.cache
+C:\curso com andre\Aula 01 - idade repeticao\obj\Debug\net8.0-windows\Aula 01 - idade repeticao.AssemblyInfo.cs
+C:\curso com andre\Aula 01 - idade repeticao\obj\Debug\net8.0-windows\Aula 01 - idade repeticao.csproj.CoreCompileInputs.cache
+C:\curso com andre\Aula 01 - idade repeticao\obj\Debug\net8.0-windows\Aula 01 - idade repeticao.dll
+C:\curso com andre\Aula 01 - idade repeticao\obj\Debug\net8.0-windows\refint\Aula 01 - idade repeticao.dll
+C:\curso com andre\Aula 01 - idade repeticao\obj\Debug\net8.0-windows\Aula 01 - idade repeticao.pdb
+C:\curso com andre\Aula 01 - idade repeticao\obj\Debug\net8.0-windows\Aula 01 - idade repeticao.genruntimeconfig.cache
+C:\curso com andre\Aula 01 - idade repeticao\obj\Debug\net8.0-windows\ref\Aula 01 - idade repeticao.dll
