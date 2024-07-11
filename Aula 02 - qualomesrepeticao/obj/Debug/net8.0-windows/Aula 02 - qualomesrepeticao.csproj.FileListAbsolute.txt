@@ -1,0 +1,16 @@
+C:\curso com andre\Aula 02 - qualomesrepeticao\bin\Debug\net8.0-windows\Aula 02 - qualomesrepeticao.exe
+C:\curso com andre\Aula 02 - qualomesrepeticao\bin\Debug\net8.0-windows\Aula 02 - qualomesrepeticao.deps.json
+C:\curso com andre\Aula 02 - qualomesrepeticao\bin\Debug\net8.0-windows\Aula 02 - qualomesrepeticao.runtimeconfig.json
+C:\curso com andre\Aula 02 - qualomesrepeticao\bin\Debug\net8.0-windows\Aula 02 - qualomesrepeticao.dll
+C:\curso com andre\Aula 02 - qualomesrepeticao\bin\Debug\net8.0-windows\Aula 02 - qualomesrepeticao.pdb
+C:\curso com andre\Aula 02 - qualomesrepeticao\obj\Debug\net8.0-windows\Aula_02___qualomesrepeticao.Form1.resources
+C:\curso com andre\Aula 02 - qualomesrepeticao\obj\Debug\net8.0-windows\Aula 02 - qualomesrepeticao.csproj.GenerateResource.cache
+C:\curso com andre\Aula 02 - qualomesrepeticao\obj\Debug\net8.0-windows\Aula 02 - qualomesrepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Aula 02 - qualomesrepeticao\obj\Debug\net8.0-windows\Aula 02 - qualomesrepeticao.AssemblyInfoInputs.cache
+C:\curso com andre\Aula 02 - qualomesrepeticao\obj\Debug\net8.0-windows\Aula 02 - qualomesrepeticao.AssemblyInfo.cs
+C:\curso com andre\Aula 02 - qualomesrepeticao\obj\Debug\net8.0-windows\Aula 02 - qualomesrepeticao.csproj.CoreCompileInputs.cache
+C:\curso com andre\Aula 02 - qualomesrepeticao\obj\Debug\net8.0-windows\Aula 02 - qualomesrepeticao.dll
+C:\curso com andre\Aula 02 - qualomesrepeticao\obj\Debug\net8.0-windows\refint\Aula 02 - qualomesrepeticao.dll
+C:\curso com andre\Aula 02 - qualomesrepeticao\obj\Debug\net8.0-windows\Aula 02 - qualomesrepeticao.pdb
+C:\curso com andre\Aula 02 - qualomesrepeticao\obj\Debug\net8.0-windows\Aula 02 - qualomesrepeticao.genruntimeconfig.cache
+C:\curso com andre\Aula 02 - qualomesrepeticao\obj\Debug\net8.0-windows\ref\Aula 02 - qualomesrepeticao.dll
