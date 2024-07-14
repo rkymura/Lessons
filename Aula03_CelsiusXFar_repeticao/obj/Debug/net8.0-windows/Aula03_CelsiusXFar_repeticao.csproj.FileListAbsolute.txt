@@ -1,0 +1,16 @@
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\bin\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.exe
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\bin\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.deps.json
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\bin\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.runtimeconfig.json
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\bin\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.dll
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\bin\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.pdb
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\obj\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.Form1.resources
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\obj\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.csproj.GenerateResource.cache
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\obj\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\obj\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.AssemblyInfoInputs.cache
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\obj\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.AssemblyInfo.cs
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\obj\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.csproj.CoreCompileInputs.cache
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\obj\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.dll
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\obj\Debug\net8.0-windows\refint\Aula03_CelsiusXFar_repeticao.dll
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\obj\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.pdb
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\obj\Debug\net8.0-windows\Aula03_CelsiusXFar_repeticao.genruntimeconfig.cache
+C:\curso com andre\Aula03_CelsiusXFar_repeticao\obj\Debug\net8.0-windows\ref\Aula03_CelsiusXFar_repeticao.dll
