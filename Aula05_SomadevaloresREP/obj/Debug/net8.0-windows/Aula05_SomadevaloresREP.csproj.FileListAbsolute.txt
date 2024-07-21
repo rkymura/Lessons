@@ -1,0 +1,16 @@
+C:\curso com andre\Aula05_SomadevaloresREP\bin\Debug\net8.0-windows\Aula05_SomadevaloresREP.exe
+C:\curso com andre\Aula05_SomadevaloresREP\bin\Debug\net8.0-windows\Aula05_SomadevaloresREP.deps.json
+C:\curso com andre\Aula05_SomadevaloresREP\bin\Debug\net8.0-windows\Aula05_SomadevaloresREP.runtimeconfig.json
+C:\curso com andre\Aula05_SomadevaloresREP\bin\Debug\net8.0-windows\Aula05_SomadevaloresREP.dll
+C:\curso com andre\Aula05_SomadevaloresREP\bin\Debug\net8.0-windows\Aula05_SomadevaloresREP.pdb
+C:\curso com andre\Aula05_SomadevaloresREP\obj\Debug\net8.0-windows\Aula05_SomadevaloresREP.Form1.resources
+C:\curso com andre\Aula05_SomadevaloresREP\obj\Debug\net8.0-windows\Aula05_SomadevaloresREP.csproj.GenerateResource.cache
+C:\curso com andre\Aula05_SomadevaloresREP\obj\Debug\net8.0-windows\Aula05_SomadevaloresREP.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Aula05_SomadevaloresREP\obj\Debug\net8.0-windows\Aula05_SomadevaloresREP.AssemblyInfoInputs.cache
+C:\curso com andre\Aula05_SomadevaloresREP\obj\Debug\net8.0-windows\Aula05_SomadevaloresREP.AssemblyInfo.cs
+C:\curso com andre\Aula05_SomadevaloresREP\obj\Debug\net8.0-windows\Aula05_SomadevaloresREP.csproj.CoreCompileInputs.cache
+C:\curso com andre\Aula05_SomadevaloresREP\obj\Debug\net8.0-windows\Aula05_SomadevaloresREP.dll
+C:\curso com andre\Aula05_SomadevaloresREP\obj\Debug\net8.0-windows\refint\Aula05_SomadevaloresREP.dll
+C:\curso com andre\Aula05_SomadevaloresREP\obj\Debug\net8.0-windows\Aula05_SomadevaloresREP.pdb
+C:\curso com andre\Aula05_SomadevaloresREP\obj\Debug\net8.0-windows\Aula05_SomadevaloresREP.genruntimeconfig.cache
+C:\curso com andre\Aula05_SomadevaloresREP\obj\Debug\net8.0-windows\ref\Aula05_SomadevaloresREP.dll
