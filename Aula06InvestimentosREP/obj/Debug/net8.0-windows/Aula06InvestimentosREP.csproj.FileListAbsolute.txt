@@ -1,0 +1,16 @@
+C:\curso com andre\Aula06InvestimentosREP\bin\Debug\net8.0-windows\Aula06InvestimentosREP.exe
+C:\curso com andre\Aula06InvestimentosREP\bin\Debug\net8.0-windows\Aula06InvestimentosREP.deps.json
+C:\curso com andre\Aula06InvestimentosREP\bin\Debug\net8.0-windows\Aula06InvestimentosREP.runtimeconfig.json
+C:\curso com andre\Aula06InvestimentosREP\bin\Debug\net8.0-windows\Aula06InvestimentosREP.dll
+C:\curso com andre\Aula06InvestimentosREP\bin\Debug\net8.0-windows\Aula06InvestimentosREP.pdb
+C:\curso com andre\Aula06InvestimentosREP\obj\Debug\net8.0-windows\Aula06InvestimentosREP.Form1.resources
+C:\curso com andre\Aula06InvestimentosREP\obj\Debug\net8.0-windows\Aula06InvestimentosREP.csproj.GenerateResource.cache
+C:\curso com andre\Aula06InvestimentosREP\obj\Debug\net8.0-windows\Aula06InvestimentosREP.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Aula06InvestimentosREP\obj\Debug\net8.0-windows\Aula06InvestimentosREP.AssemblyInfoInputs.cache
+C:\curso com andre\Aula06InvestimentosREP\obj\Debug\net8.0-windows\Aula06InvestimentosREP.AssemblyInfo.cs
+C:\curso com andre\Aula06InvestimentosREP\obj\Debug\net8.0-windows\Aula06InvestimentosREP.csproj.CoreCompileInputs.cache
+C:\curso com andre\Aula06InvestimentosREP\obj\Debug\net8.0-windows\Aula06InvestimentosREP.dll
+C:\curso com andre\Aula06InvestimentosREP\obj\Debug\net8.0-windows\refint\Aula06InvestimentosREP.dll
+C:\curso com andre\Aula06InvestimentosREP\obj\Debug\net8.0-windows\Aula06InvestimentosREP.pdb
+C:\curso com andre\Aula06InvestimentosREP\obj\Debug\net8.0-windows\Aula06InvestimentosREP.genruntimeconfig.cache
+C:\curso com andre\Aula06InvestimentosREP\obj\Debug\net8.0-windows\ref\Aula06InvestimentosREP.dll
