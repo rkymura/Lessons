@@ -1,0 +1,16 @@
+C:\curso com andre\Aula08TabuadaREP\bin\Debug\net8.0-windows\Aula08TabuadaREP.exe
+C:\curso com andre\Aula08TabuadaREP\bin\Debug\net8.0-windows\Aula08TabuadaREP.deps.json
+C:\curso com andre\Aula08TabuadaREP\bin\Debug\net8.0-windows\Aula08TabuadaREP.runtimeconfig.json
+C:\curso com andre\Aula08TabuadaREP\bin\Debug\net8.0-windows\Aula08TabuadaREP.dll
+C:\curso com andre\Aula08TabuadaREP\bin\Debug\net8.0-windows\Aula08TabuadaREP.pdb
+C:\curso com andre\Aula08TabuadaREP\obj\Debug\net8.0-windows\Aula08TabuadaREP.Form1.resources
+C:\curso com andre\Aula08TabuadaREP\obj\Debug\net8.0-windows\Aula08TabuadaREP.csproj.GenerateResource.cache
+C:\curso com andre\Aula08TabuadaREP\obj\Debug\net8.0-windows\Aula08TabuadaREP.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Aula08TabuadaREP\obj\Debug\net8.0-windows\Aula08TabuadaREP.AssemblyInfoInputs.cache
+C:\curso com andre\Aula08TabuadaREP\obj\Debug\net8.0-windows\Aula08TabuadaREP.AssemblyInfo.cs
+C:\curso com andre\Aula08TabuadaREP\obj\Debug\net8.0-windows\Aula08TabuadaREP.csproj.CoreCompileInputs.cache
+C:\curso com andre\Aula08TabuadaREP\obj\Debug\net8.0-windows\Aula08TabuadaREP.dll
+C:\curso com andre\Aula08TabuadaREP\obj\Debug\net8.0-windows\refint\Aula08TabuadaREP.dll
+C:\curso com andre\Aula08TabuadaREP\obj\Debug\net8.0-windows\Aula08TabuadaREP.pdb
+C:\curso com andre\Aula08TabuadaREP\obj\Debug\net8.0-windows\Aula08TabuadaREP.genruntimeconfig.cache
+C:\curso com andre\Aula08TabuadaREP\obj\Debug\net8.0-windows\ref\Aula08TabuadaREP.dll
