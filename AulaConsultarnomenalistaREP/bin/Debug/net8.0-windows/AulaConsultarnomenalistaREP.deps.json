@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AulaConsultarnomenalistaREP/1.0.0": {
+        "runtime": {
+          "AulaConsultarnomenalistaREP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AulaConsultarnomenalistaREP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

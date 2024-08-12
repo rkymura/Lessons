@@ -1,0 +1,16 @@
+C:\curso com andre\AulaConsultarnomenalistaREP\bin\Debug\net8.0-windows\AulaConsultarnomenalistaREP.exe
+C:\curso com andre\AulaConsultarnomenalistaREP\bin\Debug\net8.0-windows\AulaConsultarnomenalistaREP.deps.json
+C:\curso com andre\AulaConsultarnomenalistaREP\bin\Debug\net8.0-windows\AulaConsultarnomenalistaREP.runtimeconfig.json
+C:\curso com andre\AulaConsultarnomenalistaREP\bin\Debug\net8.0-windows\AulaConsultarnomenalistaREP.dll
+C:\curso com andre\AulaConsultarnomenalistaREP\bin\Debug\net8.0-windows\AulaConsultarnomenalistaREP.pdb
+C:\curso com andre\AulaConsultarnomenalistaREP\obj\Debug\net8.0-windows\AulaConsultarnomenalistaREP.Form1.resources
+C:\curso com andre\AulaConsultarnomenalistaREP\obj\Debug\net8.0-windows\AulaConsultarnomenalistaREP.csproj.GenerateResource.cache
+C:\curso com andre\AulaConsultarnomenalistaREP\obj\Debug\net8.0-windows\AulaConsultarnomenalistaREP.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\AulaConsultarnomenalistaREP\obj\Debug\net8.0-windows\AulaConsultarnomenalistaREP.AssemblyInfoInputs.cache
+C:\curso com andre\AulaConsultarnomenalistaREP\obj\Debug\net8.0-windows\AulaConsultarnomenalistaREP.AssemblyInfo.cs
+C:\curso com andre\AulaConsultarnomenalistaREP\obj\Debug\net8.0-windows\AulaConsultarnomenalistaREP.csproj.CoreCompileInputs.cache
+C:\curso com andre\AulaConsultarnomenalistaREP\obj\Debug\net8.0-windows\AulaConsultarnomenalistaREP.dll
+C:\curso com andre\AulaConsultarnomenalistaREP\obj\Debug\net8.0-windows\refint\AulaConsultarnomenalistaREP.dll
+C:\curso com andre\AulaConsultarnomenalistaREP\obj\Debug\net8.0-windows\AulaConsultarnomenalistaREP.pdb
+C:\curso com andre\AulaConsultarnomenalistaREP\obj\Debug\net8.0-windows\AulaConsultarnomenalistaREP.genruntimeconfig.cache
+C:\curso com andre\AulaConsultarnomenalistaREP\obj\Debug\net8.0-windows\ref\AulaConsultarnomenalistaREP.dll
