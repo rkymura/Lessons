@@ -1,0 +1,16 @@
+C:\curso com andre\AulaFatorialREP\bin\Debug\net8.0-windows\AulaFatorialREP.exe
+C:\curso com andre\AulaFatorialREP\bin\Debug\net8.0-windows\AulaFatorialREP.deps.json
+C:\curso com andre\AulaFatorialREP\bin\Debug\net8.0-windows\AulaFatorialREP.runtimeconfig.json
+C:\curso com andre\AulaFatorialREP\bin\Debug\net8.0-windows\AulaFatorialREP.dll
+C:\curso com andre\AulaFatorialREP\bin\Debug\net8.0-windows\AulaFatorialREP.pdb
+C:\curso com andre\AulaFatorialREP\obj\Debug\net8.0-windows\AulaFatorialREP.Form1.resources
+C:\curso com andre\AulaFatorialREP\obj\Debug\net8.0-windows\AulaFatorialREP.csproj.GenerateResource.cache
+C:\curso com andre\AulaFatorialREP\obj\Debug\net8.0-windows\AulaFatorialREP.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\AulaFatorialREP\obj\Debug\net8.0-windows\AulaFatorialREP.AssemblyInfoInputs.cache
+C:\curso com andre\AulaFatorialREP\obj\Debug\net8.0-windows\AulaFatorialREP.AssemblyInfo.cs
+C:\curso com andre\AulaFatorialREP\obj\Debug\net8.0-windows\AulaFatorialREP.csproj.CoreCompileInputs.cache
+C:\curso com andre\AulaFatorialREP\obj\Debug\net8.0-windows\AulaFatorialREP.dll
+C:\curso com andre\AulaFatorialREP\obj\Debug\net8.0-windows\refint\AulaFatorialREP.dll
+C:\curso com andre\AulaFatorialREP\obj\Debug\net8.0-windows\AulaFatorialREP.pdb
+C:\curso com andre\AulaFatorialREP\obj\Debug\net8.0-windows\AulaFatorialREP.genruntimeconfig.cache
+C:\curso com andre\AulaFatorialREP\obj\Debug\net8.0-windows\ref\AulaFatorialREP.dll
