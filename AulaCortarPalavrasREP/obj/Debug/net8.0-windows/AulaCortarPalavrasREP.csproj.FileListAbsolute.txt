@@ -1,0 +1,16 @@
+C:\curso com andre\AulaCortarPalavrasREP\bin\Debug\net8.0-windows\AulaCortarPalavrasREP.exe
+C:\curso com andre\AulaCortarPalavrasREP\bin\Debug\net8.0-windows\AulaCortarPalavrasREP.deps.json
+C:\curso com andre\AulaCortarPalavrasREP\bin\Debug\net8.0-windows\AulaCortarPalavrasREP.runtimeconfig.json
+C:\curso com andre\AulaCortarPalavrasREP\bin\Debug\net8.0-windows\AulaCortarPalavrasREP.dll
+C:\curso com andre\AulaCortarPalavrasREP\bin\Debug\net8.0-windows\AulaCortarPalavrasREP.pdb
+C:\curso com andre\AulaCortarPalavrasREP\obj\Debug\net8.0-windows\AulaCortarPalavrasREP.Form1.resources
+C:\curso com andre\AulaCortarPalavrasREP\obj\Debug\net8.0-windows\AulaCortarPalavrasREP.csproj.GenerateResource.cache
+C:\curso com andre\AulaCortarPalavrasREP\obj\Debug\net8.0-windows\AulaCortarPalavrasREP.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\AulaCortarPalavrasREP\obj\Debug\net8.0-windows\AulaCortarPalavrasREP.AssemblyInfoInputs.cache
+C:\curso com andre\AulaCortarPalavrasREP\obj\Debug\net8.0-windows\AulaCortarPalavrasREP.AssemblyInfo.cs
+C:\curso com andre\AulaCortarPalavrasREP\obj\Debug\net8.0-windows\AulaCortarPalavrasREP.csproj.CoreCompileInputs.cache
+C:\curso com andre\AulaCortarPalavrasREP\obj\Debug\net8.0-windows\AulaCortarPalavrasREP.dll
+C:\curso com andre\AulaCortarPalavrasREP\obj\Debug\net8.0-windows\refint\AulaCortarPalavrasREP.dll
+C:\curso com andre\AulaCortarPalavrasREP\obj\Debug\net8.0-windows\AulaCortarPalavrasREP.pdb
+C:\curso com andre\AulaCortarPalavrasREP\obj\Debug\net8.0-windows\AulaCortarPalavrasREP.genruntimeconfig.cache
+C:\curso com andre\AulaCortarPalavrasREP\obj\Debug\net8.0-windows\ref\AulaCortarPalavrasREP.dll
