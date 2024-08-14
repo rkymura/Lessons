@@ -1,0 +1,16 @@
+C:\curso com andre\AulaInverterPalavraREP\bin\Debug\net8.0-windows\AulaInverterPalavraREP.exe
+C:\curso com andre\AulaInverterPalavraREP\bin\Debug\net8.0-windows\AulaInverterPalavraREP.deps.json
+C:\curso com andre\AulaInverterPalavraREP\bin\Debug\net8.0-windows\AulaInverterPalavraREP.runtimeconfig.json
+C:\curso com andre\AulaInverterPalavraREP\bin\Debug\net8.0-windows\AulaInverterPalavraREP.dll
+C:\curso com andre\AulaInverterPalavraREP\bin\Debug\net8.0-windows\AulaInverterPalavraREP.pdb
+C:\curso com andre\AulaInverterPalavraREP\obj\Debug\net8.0-windows\AulaInverterPalavraREP.Form1.resources
+C:\curso com andre\AulaInverterPalavraREP\obj\Debug\net8.0-windows\AulaInverterPalavraREP.csproj.GenerateResource.cache
+C:\curso com andre\AulaInverterPalavraREP\obj\Debug\net8.0-windows\AulaInverterPalavraREP.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\AulaInverterPalavraREP\obj\Debug\net8.0-windows\AulaInverterPalavraREP.AssemblyInfoInputs.cache
+C:\curso com andre\AulaInverterPalavraREP\obj\Debug\net8.0-windows\AulaInverterPalavraREP.AssemblyInfo.cs
+C:\curso com andre\AulaInverterPalavraREP\obj\Debug\net8.0-windows\AulaInverterPalavraREP.csproj.CoreCompileInputs.cache
+C:\curso com andre\AulaInverterPalavraREP\obj\Debug\net8.0-windows\AulaInverterPalavraREP.dll
+C:\curso com andre\AulaInverterPalavraREP\obj\Debug\net8.0-windows\refint\AulaInverterPalavraREP.dll
+C:\curso com andre\AulaInverterPalavraREP\obj\Debug\net8.0-windows\AulaInverterPalavraREP.pdb
+C:\curso com andre\AulaInverterPalavraREP\obj\Debug\net8.0-windows\AulaInverterPalavraREP.genruntimeconfig.cache
+C:\curso com andre\AulaInverterPalavraREP\obj\Debug\net8.0-windows\ref\AulaInverterPalavraREP.dll
