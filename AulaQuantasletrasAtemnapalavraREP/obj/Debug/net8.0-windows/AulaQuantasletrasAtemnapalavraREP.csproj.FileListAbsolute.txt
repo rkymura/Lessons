@@ -1,0 +1,16 @@
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\bin\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.exe
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\bin\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.deps.json
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\bin\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.runtimeconfig.json
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\bin\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.dll
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\bin\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.pdb
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\obj\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.Form1.resources
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\obj\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.csproj.GenerateResource.cache
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\obj\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\obj\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.AssemblyInfoInputs.cache
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\obj\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.AssemblyInfo.cs
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\obj\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.csproj.CoreCompileInputs.cache
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\obj\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.dll
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\obj\Debug\net8.0-windows\refint\AulaQuantasletrasAtemnapalavraREP.dll
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\obj\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.pdb
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\obj\Debug\net8.0-windows\AulaQuantasletrasAtemnapalavraREP.genruntimeconfig.cache
+C:\curso com andre\AulaQuantasletrasAtemnapalavraREP\obj\Debug\net8.0-windows\ref\AulaQuantasletrasAtemnapalavraREP.dll
