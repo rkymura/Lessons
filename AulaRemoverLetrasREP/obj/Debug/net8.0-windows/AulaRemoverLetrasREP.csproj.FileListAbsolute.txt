@@ -1,0 +1,16 @@
+C:\curso com andre\AulaRemoverLetrasREP\obj\Debug\net8.0-windows\AulaRemoverLetrasREP.Form1.resources
+C:\curso com andre\AulaRemoverLetrasREP\obj\Debug\net8.0-windows\AulaRemoverLetrasREP.csproj.GenerateResource.cache
+C:\curso com andre\AulaRemoverLetrasREP\obj\Debug\net8.0-windows\AulaRemoverLetrasREP.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\AulaRemoverLetrasREP\obj\Debug\net8.0-windows\AulaRemoverLetrasREP.AssemblyInfoInputs.cache
+C:\curso com andre\AulaRemoverLetrasREP\obj\Debug\net8.0-windows\AulaRemoverLetrasREP.AssemblyInfo.cs
+C:\curso com andre\AulaRemoverLetrasREP\obj\Debug\net8.0-windows\AulaRemoverLetrasREP.csproj.CoreCompileInputs.cache
+C:\curso com andre\AulaRemoverLetrasREP\bin\Debug\net8.0-windows\AulaRemoverLetrasREP.exe
+C:\curso com andre\AulaRemoverLetrasREP\bin\Debug\net8.0-windows\AulaRemoverLetrasREP.deps.json
+C:\curso com andre\AulaRemoverLetrasREP\bin\Debug\net8.0-windows\AulaRemoverLetrasREP.runtimeconfig.json
+C:\curso com andre\AulaRemoverLetrasREP\bin\Debug\net8.0-windows\AulaRemoverLetrasREP.dll
+C:\curso com andre\AulaRemoverLetrasREP\bin\Debug\net8.0-windows\AulaRemoverLetrasREP.pdb
+C:\curso com andre\AulaRemoverLetrasREP\obj\Debug\net8.0-windows\AulaRemoverLetrasREP.dll
+C:\curso com andre\AulaRemoverLetrasREP\obj\Debug\net8.0-windows\refint\AulaRemoverLetrasREP.dll
+C:\curso com andre\AulaRemoverLetrasREP\obj\Debug\net8.0-windows\AulaRemoverLetrasREP.pdb
+C:\curso com andre\AulaRemoverLetrasREP\obj\Debug\net8.0-windows\AulaRemoverLetrasREP.genruntimeconfig.cache
+C:\curso com andre\AulaRemoverLetrasREP\obj\Debug\net8.0-windows\ref\AulaRemoverLetrasREP.dll
