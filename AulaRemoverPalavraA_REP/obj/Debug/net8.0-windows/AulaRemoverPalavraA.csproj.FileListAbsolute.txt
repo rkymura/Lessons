@@ -1,0 +1,16 @@
+C:\curso com andre\AulaRemoverPalavraA\bin\Debug\net8.0-windows\AulaRemoverPalavraA.exe
+C:\curso com andre\AulaRemoverPalavraA\bin\Debug\net8.0-windows\AulaRemoverPalavraA.deps.json
+C:\curso com andre\AulaRemoverPalavraA\bin\Debug\net8.0-windows\AulaRemoverPalavraA.runtimeconfig.json
+C:\curso com andre\AulaRemoverPalavraA\bin\Debug\net8.0-windows\AulaRemoverPalavraA.dll
+C:\curso com andre\AulaRemoverPalavraA\bin\Debug\net8.0-windows\AulaRemoverPalavraA.pdb
+C:\curso com andre\AulaRemoverPalavraA\obj\Debug\net8.0-windows\AulaRemoverPalavraA.Form1.resources
+C:\curso com andre\AulaRemoverPalavraA\obj\Debug\net8.0-windows\AulaRemoverPalavraA.csproj.GenerateResource.cache
+C:\curso com andre\AulaRemoverPalavraA\obj\Debug\net8.0-windows\AulaRemoverPalavraA.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\AulaRemoverPalavraA\obj\Debug\net8.0-windows\AulaRemoverPalavraA.AssemblyInfoInputs.cache
+C:\curso com andre\AulaRemoverPalavraA\obj\Debug\net8.0-windows\AulaRemoverPalavraA.AssemblyInfo.cs
+C:\curso com andre\AulaRemoverPalavraA\obj\Debug\net8.0-windows\AulaRemoverPalavraA.csproj.CoreCompileInputs.cache
+C:\curso com andre\AulaRemoverPalavraA\obj\Debug\net8.0-windows\AulaRemoverPalavraA.dll
+C:\curso com andre\AulaRemoverPalavraA\obj\Debug\net8.0-windows\refint\AulaRemoverPalavraA.dll
+C:\curso com andre\AulaRemoverPalavraA\obj\Debug\net8.0-windows\AulaRemoverPalavraA.pdb
+C:\curso com andre\AulaRemoverPalavraA\obj\Debug\net8.0-windows\AulaRemoverPalavraA.genruntimeconfig.cache
+C:\curso com andre\AulaRemoverPalavraA\obj\Debug\net8.0-windows\ref\AulaRemoverPalavraA.dll
