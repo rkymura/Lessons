@@ -1,0 +1,16 @@
+C:\curso com andre\TirarLetraA_P\bin\Debug\net8.0-windows\TirarLetraA_P.exe
+C:\curso com andre\TirarLetraA_P\bin\Debug\net8.0-windows\TirarLetraA_P.deps.json
+C:\curso com andre\TirarLetraA_P\bin\Debug\net8.0-windows\TirarLetraA_P.runtimeconfig.json
+C:\curso com andre\TirarLetraA_P\bin\Debug\net8.0-windows\TirarLetraA_P.dll
+C:\curso com andre\TirarLetraA_P\bin\Debug\net8.0-windows\TirarLetraA_P.pdb
+C:\curso com andre\TirarLetraA_P\obj\Debug\net8.0-windows\TirarLetraA_P.Form1.resources
+C:\curso com andre\TirarLetraA_P\obj\Debug\net8.0-windows\TirarLetraA_P.csproj.GenerateResource.cache
+C:\curso com andre\TirarLetraA_P\obj\Debug\net8.0-windows\TirarLetraA_P.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\TirarLetraA_P\obj\Debug\net8.0-windows\TirarLetraA_P.AssemblyInfoInputs.cache
+C:\curso com andre\TirarLetraA_P\obj\Debug\net8.0-windows\TirarLetraA_P.AssemblyInfo.cs
+C:\curso com andre\TirarLetraA_P\obj\Debug\net8.0-windows\TirarLetraA_P.csproj.CoreCompileInputs.cache
+C:\curso com andre\TirarLetraA_P\obj\Debug\net8.0-windows\TirarLetraA_P.dll
+C:\curso com andre\TirarLetraA_P\obj\Debug\net8.0-windows\refint\TirarLetraA_P.dll
+C:\curso com andre\TirarLetraA_P\obj\Debug\net8.0-windows\TirarLetraA_P.pdb
+C:\curso com andre\TirarLetraA_P\obj\Debug\net8.0-windows\TirarLetraA_P.genruntimeconfig.cache
+C:\curso com andre\TirarLetraA_P\obj\Debug\net8.0-windows\ref\TirarLetraA_P.dll
