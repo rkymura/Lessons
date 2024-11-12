@@ -1,0 +1,6 @@
+C:\curso com andre\Aula02_Qualomes_rep2\obj\Debug\net8.0-windows\Aula02_Qualomes_rep2.Form1.resources
+C:\curso com andre\Aula02_Qualomes_rep2\obj\Debug\net8.0-windows\Aula02_Qualomes_rep2.csproj.GenerateResource.cache
+C:\curso com andre\Aula02_Qualomes_rep2\obj\Debug\net8.0-windows\Aula02_Qualomes_rep2.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso com andre\Aula02_Qualomes_rep2\obj\Debug\net8.0-windows\Aula02_Qualomes_rep2.AssemblyInfoInputs.cache
+C:\curso com andre\Aula02_Qualomes_rep2\obj\Debug\net8.0-windows\Aula02_Qualomes_rep2.AssemblyInfo.cs
+C:\curso com andre\Aula02_Qualomes_rep2\obj\Debug\net8.0-windows\Aula02_Qualomes_rep2.csproj.CoreCompileInputs.cache

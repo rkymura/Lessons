@@ -14,3 +14,20 @@ C:\curso com andre\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
 C:\curso com andre\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
 C:\curso com andre\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\curso com andre\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Lessons\AulaConcatenacaoREP2\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Lessons\AulaConcatenacaoREP2\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Lessons\AulaConcatenacaoREP2\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Lessons\AulaConcatenacaoREP2\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Lessons\AulaConcatenacaoREP2\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Lessons\AulaConcatenacaoREP2\obj\Debug\net8.0-windows\WinFormsApp1.AulaConcatenacaoREP2.resources
+C:\Lessons\AulaConcatenacaoREP2\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Lessons\AulaConcatenacaoREP2\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\AulaConcatenacaoREP2\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Lessons\AulaConcatenacaoREP2\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Lessons\AulaConcatenacaoREP2\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Lessons\AulaConcatenacaoREP2\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Lessons\AulaConcatenacaoREP2\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Lessons\AulaConcatenacaoREP2\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Lessons\AulaConcatenacaoREP2\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Lessons\AulaConcatenacaoREP2\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Lessons\AulaConcatenacaoREP2\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

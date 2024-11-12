@@ -11,13 +11,13 @@ namespace WinFormsApp1
         {
             var primeiraPalavra = textBox1.Text;
             var segundaPalavra = textBox2.Text;
-            var resultado = (textBox1.Text) + (textBox2.Text);
+            var resultado = concatenacao(primeiraPalavra, segundaPalavra);
             label1.Text = resultado;
         }
 
-        public string resultado (string primeiraPalavra, string segundaPalavra)// sem utilidade perguntar pro Andre
+        public string concatenacao(string primeiraPalavra, string segundaPalavra)
         {
-            return primeiraPalavra + segundaPalavra;// sem utilidade perguntar pro Andre
+            return primeiraPalavra + segundaPalavra;
         }
     }
 }
